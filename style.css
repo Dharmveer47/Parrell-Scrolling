@@ -4,8 +4,12 @@ body{
     overflow: hidden;
 
 }
+*{
+    margin: 0%;
+    padding: 0%;
+}
 .title{
-    font-size: 7rem;
+    font-size: 2rem;
     font-weight: bold;
     color: #fff;
     text-shadow: 0 0px 5px black;
@@ -15,8 +19,8 @@ img{
     height: auto;
 }
 section{
-    font-size: 2rem;
-    padding: 2rem;
+    font-size: 1.5rem;
+    padding: 1.5rem;
     background-color: rgb(59, 59, 59);
     color: rgb(167, 167, 167);
 }
