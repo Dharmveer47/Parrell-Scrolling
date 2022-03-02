@@ -1,4 +1,3 @@
-## This is a prallere scloller Wb
+## This is a prallere scloller Web !
 
-[HTML,CSS]: # Language: markdown
-[]: # Path: readme.md
+# [Test Me to click !](https://dharmveer47.github.io/Parrell-Scrolling/)
